@@ -1,0 +1,3 @@
+rootProject.name='SimpleJitpackProject'
+include ':app'
+include ':sayhello'
